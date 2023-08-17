@@ -1,1 +1,1 @@
-# NJP-TVZ
+# Napredno Javascript programiranje
