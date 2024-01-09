@@ -1,1 +1,1 @@
-# Napredno Javascript programiranje
+# Napredno Javascript programiranje - Angular
